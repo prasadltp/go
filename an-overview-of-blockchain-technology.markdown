@@ -1,7 +1,4 @@
 ---
-title: 'Know more about Blockchain: Overview, Technology, Application Areas and Use
-  Cases'
-date: 2018-01-13 06:53:00 Z
 ---
 
 “Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole.” -  Bob Greifeld, Chief Executive of NASDAQ
