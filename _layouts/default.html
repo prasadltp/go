@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+{% assign banners = site.banners | where: "Is Active" , "true" %}
+{% assign pageurl_array = page.url | split: "/" %}
+{% assign path = pageurl_array[0] %}
+{% assign collection_url = pageurl_array[1] %}
+{% assign collection_name = page.title %}
+<body class="{{ layout.class | slugify }} {{path}} {{collection_url}} {{ page.title | slugify }} {% for banner in banners limit:1 %}banner-active{% endfor %}">
+{% include header.html %}
+<div class="container">
+<main role="main">
+<div class="layout {{ layout.class | slugify }}">
+{{ content }}
+</div>
+</main>
+</div>
+{% include footer.html %}
+
+<!-- scripts -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="{{ "/assets/scripts" | prepend: site.baseurl }}/jquery.waypoints.min.js"></script>
+<script src="{{ "/assets/scripts" | prepend: site.baseurl }}/sticky.min.js"></script>
+<script type="text/javascript" src="{{ "/assets/scripts" | prepend: site.baseurl }}/plugins.js"></script>
+<script type="text/javascript" src="{{ "/assets/scripts" | prepend: site.baseurl }}/app.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37368038-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-37368038-2');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '589774774543640'); // Insert your pixel ID here.
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=589774774543640&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+</body>
+</html>

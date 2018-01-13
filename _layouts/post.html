@@ -1,0 +1,54 @@
+---
+layout: default
+class: article
+---
+
+{% assign topic = site.topics | where: 'title', page.Topics | first %}
+{% assign author = site.person | where: 'title', page.Person | first %}
+{% assign contributor = author | where: page['Is MEDICI Team?'], false %}
+<article class="article {% if contributor %}contributor{% endif %}">
+	<header>
+		<h4><a href="{{ topic.url }}">{{ page.Topics | first }}</a></h4>
+		<h1>{{page.title}}</h1>
+		<p class="byline">by {% if author.Image %} <img style="width:25px;height:25px;border-radius:50%;" src="{{author.Image}}" /> {% endif %} <a href="{{author.url}}">{{author.title}}</a> &middot; {{page.date | date: "%B %e, %Y"}}</p>
+		{{ page.Description }}
+		<ul class="share">
+			<li class="facebook"><a href="https://facebook.com/gomedici" target="_blank"><i class="entypo-facebook"></i>Facebook</a></li>
+			<li class="twitter"><a href="https://twitter.com/gomedici" target="_blank"><i class="entypo-twitter"></i>Twitter</a></li>
+			<li class="linkedin"><a href="#"><i class="entypo-linkedin"></i>LinkedIn</a></li>
+			<li class="email"><a href="#"><i class="entypo-mail"></i>Email</a></li>
+		</ul>
+	</header>
+  
+	<section class="body">
+	  <figure class="image">
+		{% if page.Image %}
+			<div class="image" style="background-image: url('{{page.Image}}');"></div>
+		{% else %}
+			<div class="image" style="background-image: url('/uploads/MEDICI_default.png');"></div>		
+		{% endif %}
+	  </figure>
+	  {{ page.content}}
+	  
+	  <footer class="bio">
+	  	<figure class="image">
+	  		<div class="image" style="background-image: url({{author.Image}});"></div>
+	  	</figure>
+	  	<div class="body">
+  			<h2><a href="{{author.url}}">{{ author.title }}</a></h2>
+  	  	{{ author.content | markdownify }}
+		  </div>
+		  
+	  </footer>
+	  <p class="more">{% if author['Is MEDICI Team?'] == true %}{% else %}<a href="/contribute" class="contribute">Apply to Become a Contributor</a>{% endif %}</p> 
+
+		{% for tag in page.tags %}		  
+		  	{% if forloop.first == true %}<div class="tag-cloud-body">{% endif %}
+				<a href="javascript:void(0);">{{tag}}</a>	
+			{% if forloop.last == true %}</div>{% endif %}
+		{% endfor %}
+	</section>
+	
+	{% include sidebar.html %}
+  
+</article>

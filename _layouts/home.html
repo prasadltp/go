@@ -1,0 +1,61 @@
+---
+layout: default
+class: home
+---
+
+{% assign page_num = paginator.page %}
+	
+{% if page_num == 1 %}
+	<section class="posts grid">
+  	<div class="featured first">
+  	  {% assign featured = site.posts | where: "Is Featured" , "true" %}
+  		{% for post in featured limit:1 %}
+  		  {% include post.html words="50" %}
+  		{% endfor %}
+  	</div>
+  	
+  	{% for post in paginator.posts limit:4 %}
+  	  {% include post.html words="25" %}
+  	{% endfor %}
+  	
+  	{% for post in featured limit:1 offset:1 %}
+  	<div class="featured inline">
+  	  {% include post.html words="50" %}
+  	</div>
+  	{% endfor %}
+  	
+  	{% for post in paginator.posts limit:4 offset:4 %}
+  	  {% include post.html words="25" %}
+  	{% endfor %}
+  	{% include pagination.html %}
+  	
+  </section>
+  
+  {% include sidebar.html %}
+  
+{% else %}
+  
+<div class="post-featured">
+	{% for post in paginator.posts limit:2 %}
+    {% if forloop.first == true %}<section class="posts grid">{% endif %}
+    	{% include post.html words="50" %}
+    {% if forloop.last == true %}</section>{% endif %}
+    {% endfor %}
+</div>
+
+<div class="post-wrap">
+  <section class="posts">
+  
+    <div class="grid">
+    	{% for post in paginator.posts offset:2 %}
+  	    {% include post.html words="50" %}
+    	{% endfor %}
+    </div>
+    
+    {% include pagination.html %}
+  
+  </section>
+  {% include sidebar.html %}
+</div>
+  
+{% endif %}
