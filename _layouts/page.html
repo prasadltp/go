@@ -1,0 +1,39 @@
+---
+layout: default
+class: article
+---
+
+<article class="page">
+  
+  <figure class="image">
+  	<div class="image" style="background-image: url({{page.Image}});"></div>
+  </figure>
+  
+  <header class="post-header">
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  <section class="body">
+    {{ content }}
+  </section>
+  
+  
+  
+  {% for section in page.Section %}
+  {% if forloop.first == true %}<div class="extended">{% endif %}
+    <section>
+    	{% if section.Title %}<h2>{{ section.Title }}</h2>{% endif %}
+    	{% if section.Image %}
+    	<figure class="image">
+    		<div class="image" style="background-image: url({{section.Image}});"></div>
+    	</figure>
+    	{% endif %}
+    	{% if section.Text %}
+    	{{ section.Text | markdownify }}
+    	{% endif %}
+    </section>
+  {% if forloop.last == true %}</div>{% endif %}
+  {% endfor %}
+
+  {% include columns.html %}
+</article>
