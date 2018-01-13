@@ -1,4 +1,5 @@
 ---
+ <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 ---
 
 “Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole.” -  Bob Greifeld, Chief Executive of NASDAQ
