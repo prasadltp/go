@@ -2,6 +2,51 @@
 title: 'Know more about Blockchain: Overview, Technology, Application Areas and Use
   Cases'
 date: 2018-01-13 06:53:00 Z
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<meta name="msvalidate.01" content="33194B563AE9DA5818E3BE2BC1EF8A80" />
+        <meta property="fb:pages" content="1391787754382947" />
+		<!-- Favicon -->
+        <link rel="publisher" href="https://plus.google.com/+LetstalkpaymentsLTP/"/>
+					<link rel="shortcut icon" href="https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2015/03/favicon1.png" type="image/x-icon" />
+				
+		<link rel="alternate" type="application/rss+xml" href="https://letstalkpayments.com/feed/" title="Lets Talk Payments latest posts" />
+		<link rel="alternate" type="application/rss+xml" href="https://letstalkpayments.com/comments/feed/" title="Lets Talk Payments latest comments" />
+		<link rel="pingback" href="https://letstalkpayments.com/xmlrpc.php" />
+
+		
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- Admin only notice: this page doesn&#039;t show a meta description because it doesn&#039;t have one, either write it for this page specifically or go into the SEO -&gt; Titles menu and set up a template. -->
+<link rel="canonical" href="https://letstalkpayments.com/an-overview-of-blockchain-technology/" />
+<link rel="publisher" href="https://plus.google.com/+LetstalkpaymentsLTP"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Know more about Blockchain: Overview, Technology, Application Areas and Use Cases - Lets Talk Payments" />
+<meta property="og:description" content="“Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole.” &#8211;  Bob Greifeld, Chief Executive of NASDAQ “In financial markets" />
+<meta property="og:url" content="https://letstalkpayments.com/an-overview-of-blockchain-technology/" />
+<meta property="og:site_name" content="Lets Talk Payments" />
+<meta property="article:publisher" content="https://www.facebook.com/LetsTalkPayments" />
+<meta property="fb:app_id" content="1618146448477556" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/Capture1.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/12/Blockchain-Activity-of-FIs-Banks-Updated-Analysis-Infographic.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/07/Blockchain-Usecases-and-Startups.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/Untitled2.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/12/Blockchain-Infographics-1.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2016/04/14-11.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/b11.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2016/01/capital-market-image.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/Pic_1.jpg" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/pic_2.jpg" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/Pic_3.jpg" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/11-copy.png" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/122.jpg" />
+<meta property="og:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/Blockchain-Apps.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="“Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole.” &#8211;  Bob Greifeld, Chief Executive of NASDAQ “In financial markets" />
+<meta name="twitter:title" content="Know more about Blockchain: Overview, Technology, Application Areas and Use Cases - Lets Talk Payments" />
+<meta name="twitter:site" content="@letstalkpaymnts" />
+<meta name="twitter:image" content="https://letstalkpayments.com/wp-content/uploads/2015/09/Capture1.png" />
+<meta name="twitter:creator" content="@letstalkpaymnts" />
 ---
 
 “Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole.” -  Bob Greifeld, Chief Executive of NASDAQ
