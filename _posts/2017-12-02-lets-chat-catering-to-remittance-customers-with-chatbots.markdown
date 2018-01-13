@@ -3,13 +3,13 @@ title: 'Let''s Chat: Catering to Remittance Customers With Chatbots'
 date: 2017-12-02 00:00:05 Z
 categories:
 - Remittance
-Topics:
-- Remittance
 tags:
 - Asia
 - Europe
 - insights
 - US
+Topics:
+- Remittance
 layout: post
 type: post
 status: publish
@@ -18,9 +18,6 @@ Markets:
 - Europe
 - insights
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

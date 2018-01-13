@@ -9,6 +9,11 @@ categories:
 - Insights
 - Mobile
 - Enabling Technologies
+tags:
+- Asia
+- Europe
+- insights
+- US
 Topics:
 - Enabling Technologies
 - Financial Inclusion
@@ -17,11 +22,6 @@ Topics:
 - Fintech
 - Insights
 - Mobile
-tags:
-- Asia
-- Europe
-- insights
-- US
 layout: post
 type: post
 status: publish
@@ -30,9 +30,6 @@ Markets:
 - Europe
 - insights
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

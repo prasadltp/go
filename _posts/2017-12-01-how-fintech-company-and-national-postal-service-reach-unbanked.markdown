@@ -4,14 +4,14 @@ date: 2017-12-01 00:00:32 Z
 categories:
 - Fintech
 - Insights
-Topics:
-- Fintech
-- Insights
 tags:
 - Asia
 - Europe
 - insights
 - US
+Topics:
+- Fintech
+- Insights
 layout: post
 type: post
 status: publish
@@ -20,9 +20,6 @@ Markets:
 - Europe
 - insights
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

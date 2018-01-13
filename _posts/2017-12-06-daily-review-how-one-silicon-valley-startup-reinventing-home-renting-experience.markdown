@@ -5,14 +5,14 @@ date: 2017-12-06 23:30:49 Z
 categories:
 - Insights
 - Startups
-Topics:
-- Insights
-- Startups
 tags:
 - Asia
 - Europe
 - insights
 - US
+Topics:
+- Insights
+- Startups
 layout: post
 type: post
 status: publish
@@ -21,9 +21,6 @@ Markets:
 - Europe
 - insights
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

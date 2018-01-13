@@ -5,15 +5,15 @@ date: 2017-12-06 00:00:45 Z
 categories:
 - Insights
 - InsurTech
-Topics:
-- InsurTech
-- Insights
 tags:
 - Asia
 - Europe
 - insights
 - Snapsheet
 - US
+Topics:
+- InsurTech
+- Insights
 layout: post
 type: post
 status: publish
@@ -23,9 +23,6 @@ Markets:
 - insights
 - Snapsheet
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

@@ -6,11 +6,6 @@ categories:
 - Authentication & Security
 - Insights
 - Payments
-Topics:
-- Authentication & Security
-- Payments
-- Biometrics
-- Insights
 tags:
 - Asia
 - Europe
@@ -19,6 +14,11 @@ tags:
 - Trulioo
 - US
 - Visa
+Topics:
+- Authentication & Security
+- Payments
+- Biometrics
+- Insights
 layout: post
 type: post
 status: publish
@@ -30,9 +30,6 @@ Markets:
 - Trulioo
 - US
 - Visa
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

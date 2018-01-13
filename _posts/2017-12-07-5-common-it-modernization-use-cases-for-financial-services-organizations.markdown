@@ -9,6 +9,13 @@ categories:
 - Fintech
 - Insights
 - IT
+tags:
+- Asia
+- Europe
+- insights
+- US
+- Venmo
+- Zelle
 Topics:
 - BankTech
 - Retail Banking
@@ -17,13 +24,6 @@ Topics:
 - Fintech
 - Insights
 - IT
-tags:
-- Asia
-- Europe
-- insights
-- US
-- Venmo
-- Zelle
 layout: post
 type: post
 status: publish
@@ -34,9 +34,6 @@ Markets:
 - US
 - Venmo
 - Zelle
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

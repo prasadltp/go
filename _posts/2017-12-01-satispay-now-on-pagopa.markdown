@@ -4,9 +4,6 @@ date: 2017-12-01 23:00:11 Z
 categories:
 - Fintech
 - Insights
-Topics:
-- Fintech
-- Insights
 tags:
 - Asia
 - Europe
@@ -14,6 +11,9 @@ tags:
 - PagoPA
 - Satispay
 - US
+Topics:
+- Fintech
+- Insights
 layout: post
 type: post
 status: publish
@@ -24,9 +24,6 @@ Markets:
 - PagoPA
 - Satispay
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

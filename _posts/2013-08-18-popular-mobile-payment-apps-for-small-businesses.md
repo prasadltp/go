@@ -1,10 +1,6 @@
 ---
-layout: post
 title: Popular Mobile Payment Apps for Small Businesses
-date: 2013-08-18 14:06:48.000000000 -07:00
-type: post
-published: true
-status: publish
+date: 2013-08-18 21:06:48 Z
 categories:
 - mPOS
 - Offline Shopping
@@ -12,16 +8,19 @@ categories:
 - Payments
 - Remote Checkout
 - Videos
+layout: post
+type: post
+status: publish
 Topics:
 - Payments
 - mPOS
 - Offline Shopping
 - Online Shopping
 - Remote Checkout
-tags: []
 Markets: []
 Person: MEDICI Team
 ---
+
 <p>Merchants who accepts card based payments or cardless payments pass on the processing fee that they owe to the companies to their users. The users end up paying more than what the service costs. The business model of higher processing fees for cardless transactions is not an ideal one  for both the users and the merchants (especially small businesses). Some of the popular and not so popular mobile payment apps which are an answer to the higher processing fees are listed below:</p>
 <p><b>Google Wallet 2.0</b></p>
 <p>Similar to other mobile payment apps listed in this post, Google Wallet allows user to integrate their smartphone with their bank accounts and make a payment. This also means that the merchants have to deal with a relatively low transaction processing fees.</p>

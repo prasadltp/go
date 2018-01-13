@@ -7,12 +7,6 @@ categories:
 - BankTech
 - Fintech
 - Insights
-Topics:
-- BankTech
-- Retail Banking
-- Banking
-- Fintech
-- Insights
 tags:
 - Asia
 - Banking
@@ -24,6 +18,12 @@ tags:
 - iwoca
 - Tide
 - US
+Topics:
+- BankTech
+- Retail Banking
+- Banking
+- Fintech
+- Insights
 layout: post
 type: post
 status: publish
@@ -38,9 +38,6 @@ Markets:
 - iwoca
 - Tide
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

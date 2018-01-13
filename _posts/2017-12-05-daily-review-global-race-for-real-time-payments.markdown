@@ -4,15 +4,15 @@ date: 2017-12-05 23:30:45 Z
 categories:
 - Insights
 - Payments
-Topics:
-- Payments
-- Insights
 tags:
 - Asia
 - Europe
 - insights
 - US
 - Zelle
+Topics:
+- Payments
+- Insights
 layout: post
 type: post
 status: publish
@@ -22,9 +22,6 @@ Markets:
 - insights
 - US
 - Zelle
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 

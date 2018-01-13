@@ -19,7 +19,3 @@ Section:
 layout: page
 ---
 
-
-
-
-

@@ -4,7 +4,6 @@ date: 2018-01-02 21:30:00 Z
 position: 22
 ---
 
-
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://letstalkpayments.us7.list-manage.com/subscribe/post?u=bc57d9187dbf177fa07614fbf&id=7d56b203f3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

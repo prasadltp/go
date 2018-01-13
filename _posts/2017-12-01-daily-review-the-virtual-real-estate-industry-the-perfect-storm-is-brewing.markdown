@@ -4,14 +4,14 @@ date: 2017-12-01 23:30:02 Z
 categories:
 - Insights
 - Virtual
-Topics:
-- Insights
-- Virtual
 tags:
 - Asia
 - Europe
 - insights
 - US
+Topics:
+- Insights
+- Virtual
 layout: post
 type: post
 status: publish
@@ -20,9 +20,6 @@ Markets:
 - Europe
 - insights
 - US
-layout: post
-type: post
-status: publish
 Person: MEDICI Team
 ---
 
