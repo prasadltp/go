@@ -1,10 +1,9 @@
 ---
 title: 'KNOW MORE ABOUT BLOCKCHAIN: OVERVIEW, TECHNOLOGY, APPLICATION AREAS AND USE
   CASES'
-Description: Blockchain technology continues to redefine not only how the exchange
-  sector operates, but the global financial economy as a whole.” - Bob Greifeld, Chief
-  Executive of NASDAQ
-Field name: 
+Description: The Payments Ecosystem The Evolution of Channels and Means Money and
+  the idea of its exchange through payments have evolved a lot from the time of its
+  inception. From goods
 ---
 
 “Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole.” – Bob Greifeld, Chief Executive of NASDAQ
