@@ -38,6 +38,7 @@ To give an example of the blockchain concept, we found out about a product calle
 Banks and other financial institutions have also been active in investing (time and/or money) in this space. The following are some of the banks and other FIs who have shown intent on blockchain. The below timeline depicts the announcements by different FIs and their partners (if any) along with the potential use cases they are exploring.
 
 ![Blockchain-Activity-of-FIs-Banks-Updated-Analysis-Infographic.png](/uploads/Blockchain-Activity-of-FIs-Banks-Updated-Analysis-Infographic.png)
+{:width="1128px"}
 
 **Deutsche Bank:**
 
@@ -169,6 +170,7 @@ The interest of financial institutions on blockchain is quite evident considerin
 [Blockchain](https://letstalkpayments.com/new-blockchain-based-business-models-not-just-incremental-innovation/) technology allows everyone to hold and make transactions as strangers but in a completely transparent manner. There is no mediator in between two people making the transaction, and the entire process becomes easier and cheaper. This concept can be applied to the entire digital world, making any kind of exchange/transactions secure.
 
 ![Blockchain-Usecases-and-Startups.png](/uploads/Blockchain-Usecases-and-Startups.png)
+{:width="1128px"}
 
 The major focus is on non-financial use cases of blockchain. The non-financial use cases of blockchain have been hot in the recent past with more than 50\+ startups coming up in this space. Blockchain Capital (formerly known as Crypto Currency Partners) very recently managed to raise US$7 million towards their second investment fund for bitcoin and blockchain-related ventures specifically focusing on non-financial use cases.
 
@@ -253,6 +255,7 @@ There have been multiple use cases where the financial services industry has sho
 **1. Bitcoin-powered wallets**
 
 ![14-11.png](/uploads/14-11.png)
+{:width:"1128px"}
 
 We have also provided a complete analysis of how a particular segment like capital markets can benefit from Blockchain:
 
@@ -293,6 +296,7 @@ Sometime back we [wrote](https://letstalkpayments.com/how-blockchain-technology-
 2) Belgium-based financial services company Euroclear explains the solution as “The record of each security would be held on a flat accounting basis: put simply, with multiple levels of beneficial ownership in a single ledger. Also, there would be no need to operate data normalisation, reconcile internal systems, or agree on exposures and obligations. We would have standardised processes and services, shared reference data, standardised processing capabilities (such as reconciliations), near real-time data, and improved understanding of counterparty worthiness. For privileged participants such as regulators, we would have transparent data on holdings, among many other improvements.”
 
 ![Pic_3.jpg](/uploads/Pic_3.jpg)
+{: .center-image }
 
 Benefits for Capital Market across pre-trade, trade, post-trade and securities servicing (as mentioned by EuroClear)
 
@@ -369,6 +373,7 @@ Benefits for Capital Market across pre-trade, trade, post-trade and securities s
 **11 Blockchain Companies Applying Distributed Ledger Technology to Compliance & Security**
 
 ![11-copy.png](/uploads/11-copy.png)
+{:width="1128px"}
 
 **Blockchain Applications Beyond the Financial Services Industry**
 
