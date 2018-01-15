@@ -433,7 +433,7 @@ These blockchain platforms have been utilized by other players either for develo
 
 The below figure provides you with a snapshot of various apps/products/integrations that are being done on the core platforms.
 
-![Blockchain-Apps.png](/uploads/Blockchain-Apps.png){:height="1128px" width="1633px"}
+![Blockchain-Apps.png](/uploads/Blockchain-Apps.png){:width="1128px"}
 
 **Ripple:** Ripple is completely focused on its enterprise strategy, helping banks with real time settlement for international payments. In 2015, it has launched 2 new solutions for license Cross-Currency Settlement and FX Market Making. Some of the business that have been utilizing the Ripple Protocol are:
 
