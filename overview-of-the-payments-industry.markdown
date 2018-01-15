@@ -2,6 +2,9 @@
 title: 'Overview of the Payments Industry: The Ecosystem, Consumer & Wholesale Payments,
   and the Application of New Technologies'
 date: 2018-01-15 08:06:00 Z
+Description: The Payments Ecosystem The Evolution of Channels and Means Money and
+  the idea of its exchange through payments have evolved a lot from the time of its
+  inception. From goods
 ---
 
 **The Payments Ecosystem**
