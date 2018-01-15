@@ -17,33 +17,33 @@ position: 5
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
-				</label> <input type="email" value="" name="EMAIL" placeholder="Email Address" class="required email"
+				</label> <input type="email" value="" name="EMAIL" placeholder="Email Address *" class="required email"
 					id="mce-EMAIL">
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-FNAME">First Name <span class="asterisk">*</span>
-				</label> <input type="text" value="" name="FNAME" placeholder="First Name" class="required"
+				</label> <input type="text" value="" name="FNAME" placeholder="First Name *" class="required"
 					id="mce-FNAME">
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-LNAME">Last Name <span class="asterisk">*</span>
-				</label> <input type="text" value="" name="LNAME" placeholder="Last Name" class="required"
+				</label> <input type="text" value="" name="LNAME" placeholder="Last Name *" class="required"
 					id="mce-LNAME">
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-MMERGE3">Company <span class="asterisk">*</span>
-				</label> <input type="text" value="" name="MMERGE3" placeholder="Company" class="required"
+				</label> <input type="text" value="" name="MMERGE3" placeholder="Company *" class="required"
 					id="mce-MMERGE3">
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-MMERGE20">Role <span class="asterisk">*</span>
-				</label> <input type="text" value="" name="MMERGE20" placeholder="Role" class="required"
+				</label> <input type="text" value="" name="MMERGE20" placeholder="Role *" class="required"
 					id="mce-MMERGE20">
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-MMERGE19">Region <span class="asterisk">*</span>
 				</label> <select name="MMERGE19" class="required" id="mce-MMERGE19">
-					<option value="">Please select region</option>
+					<option value="">Please select region *</option>
 					<option value="Americas">Americas</option>
 					<option value="EMEA">EMEA</option>
 					<option value="APAC">APAC</option>
