@@ -2,8 +2,9 @@
 title: 'KNOW MORE ABOUT BLOCKCHAIN: OVERVIEW, TECHNOLOGY, APPLICATION AREAS AND USE
   CASES'
 description: Blockchain technology continues to redefine not only how the exchange
-  sector operates, but the global financial economy as a whole.” - Bob Greifeld, Chief
-  Executive of NASDAQ
+  sector operates, but the global financial economy as a whole.” &#8211;  Bob Greifeld,
+  Chief Executive of NASDAQ “In financial markets
+image: "/uploads/Blockchain-Usecases-and-Startups-e1e2a7.png"
 ---
 
 “Blockchain technology continues to redefine not only how the exchange sector operates, but the global financial economy as a whole.” – Bob Greifeld, Chief Executive of NASDAQ
