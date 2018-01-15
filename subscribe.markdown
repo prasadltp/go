@@ -5,7 +5,7 @@ position: 5
 ---
 
 <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
+<div style="width:500px;" id="mc_embed_signup">
 <form action="https://letstalkpayments.us7.list-manage.com/subscribe/post?u=bc57d9187dbf177fa07614fbf&amp;id=aa5e7321a3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe for Global FinTech Insights</h2>
