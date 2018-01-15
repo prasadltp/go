@@ -145,7 +145,7 @@ description: Description
 exclude:
 - _import
 baseurl: 
-url: http://104.131.46.160
+url: 
 twitter_username: 
 github_username: privenbark
 markdown: kramdown
