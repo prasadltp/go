@@ -29,8 +29,10 @@ position: 5
 <label for="mce-MMERGE3">Company  <span class="asterisk">*</span>
 </label>
 <input type="text" value="" name="MMERGE3" class="required" placeholder="Company" id="mce-MMERGE3">
-</div>*<div class="mc-field-group">
-<label for="mce-MMERGE20">Role  <span class="asterisk">\*</span>
+</div>*
+
+<div class="mc-field-group">
+<label for="mce-MMERGE20">Role <span class="asterisk"></span>
 </label>
 <input type="text" value="" name="MMERGE20" placeholder="Role" class="required" id="mce-MMERGE20">
 </div>*
