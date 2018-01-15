@@ -45,10 +45,7 @@ position: 5
 <option value="EMEA">EMEA</option>
 <option value="APAC">APAC</option>
 
-    </select>
-
-</div>
-
+</select></div>
 <div id="mce-responses" class="clear">
 <div class="response" id="mce-error-response" style="display:none"></div>
 <div class="response" id="mce-success-response" style="display:none"></div>
