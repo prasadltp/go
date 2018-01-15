@@ -42,7 +42,7 @@ position: 5
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-MMERGE19">Region <span class="asterisk">*</span>
-				</label> <select name="MMERGE19" class="required" id="mce-MMERGE19">
+				</label> <select style="margin:0 0 15px 0;" name="MMERGE19" class="required" id="mce-MMERGE19">
 					<option value="">Please select region *</option>
 					<option value="Americas">Americas</option>
 					<option value="EMEA">EMEA</option>
