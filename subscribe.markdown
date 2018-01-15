@@ -4,56 +4,52 @@ date: 2017-12-12 01:32:00 Z
 position: 5
 ---
 
-<!-- Begin MailChimp Signup Form -->
-<div style="width: 500px;" id="mc_embed_signup">
+<div id="mc_embed_signup">
 	<form
-		action="https://letstalkpayments.us7.list-manage.com/subscribe/post?u=bc57d9187dbf177fa07614fbf&id=aa5e7321a3"
+		action="https://letstalkpayments.us7.list-manage.com/subscribe/post?u=bc57d9187dbf177fa07614fbf&amp;id=aa5e7321a3"
 		method="post" id="mc-embedded-subscribe-form"
 		name="mc-embedded-subscribe-form" class="validate" target="_blank"
 		novalidate>
 		<div id="mc_embed_signup_scroll">
 			<h2>Subscribe for Global FinTech Insights</h2>
 			<div class="indicates-required">
-				<span class="asterisk"></span> indicates required
+				<span class="asterisk">*</span> indicates required
 			</div>
 			<div class="mc-field-group">
-				<label for="mce-EMAIL">Email Address <span class="asterisk"></span>
-				</label> <input type="email" value="" name="EMAIL"
-					placeholder="Email Address" class="required email" id="mce-EMAIL">
+				<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+				</label> <input type="email" value="" name="EMAIL" class="required email"
+					id="mce-EMAIL">
 			</div>
 			<div class="mc-field-group">
-				<label for="mce-FNAME">First Name
-				</label> <input type="text" value="" name="FNAME" placeholder="First Name"
-					class="required" id="mce-FNAME">
+				<label for="mce-FNAME">First Name <span class="asterisk">*</span>
+				</label> <input type="text" value="" name="FNAME" class="required"
+					id="mce-FNAME">
 			</div>
 			<div class="mc-field-group">
-				<label for="mce-LNAME">Last Name
-				</label> <input type="text" value="" name="LNAME" placeholder="Last Name"
-					class="required" id="mce-LNAME">
+				<label for="mce-LNAME">Last Name <span class="asterisk">*</span>
+				</label> <input type="text" value="" name="LNAME" class="required"
+					id="mce-LNAME">
 			</div>
 			<div class="mc-field-group">
-				<label for="mce-MMERGE3">Company
+				<label for="mce-MMERGE3">Company <span class="asterisk">*</span>
 				</label> <input type="text" value="" name="MMERGE3" class="required"
-					placeholder="Company" id="mce-MMERGE3">
-			</div>
-
-			<div class="mc-field-group">
-				<label for="mce-MMERGE20">Role
-				</label> <input type="text" value="" name="MMERGE20" placeholder="Role"
-					class="required" id="mce-MMERGE20">
+					id="mce-MMERGE3">
 			</div>
 			<div class="mc-field-group">
-				<label for="mce-MMERGE19">Region
+				<label for="mce-MMERGE20">Role <span class="asterisk">*</span>
+				</label> <input type="text" value="" name="MMERGE20" class="required"
+					id="mce-MMERGE20">
+			</div>
+			<div class="mc-field-group">
+				<label for="mce-MMERGE19">Region <span class="asterisk">*</span>
 				</label> <select name="MMERGE19" class="required" id="mce-MMERGE19">
-					<option value="">Please select region</option>
+					<option value=""></option>
 					<option value="Americas">Americas</option>
 					<option value="EMEA">EMEA</option>
 					<option value="APAC">APAC</option>
 
 				</select>
-
 			</div>
-
 			<div id="mce-responses" class="clear">
 				<div class="response" id="mce-error-response" style="display: none"></div>
 				<div class="response" id="mce-success-response"
@@ -85,10 +81,10 @@ position: 5
 		ftypes[2] = 'text';
 		fnames[3] = 'MMERGE3';
 		ftypes[3] = 'text';
-		fnames[19] = 'MMERGE19';
-		ftypes[19] = 'dropdown';
 		fnames[20] = 'MMERGE20';
 		ftypes[20] = 'text';
+		fnames[19] = 'MMERGE19';
+		ftypes[19] = 'dropdown';
 		fnames[4] = 'MMERGE4';
 		ftypes[4] = 'text';
 		fnames[5] = 'MMERGE5';
