@@ -4,7 +4,7 @@ date: 2017-12-12 01:32:00 Z
 position: 5
 ---
 
-<div id="mc_embed_signup">
+<div style="width: 500px;" id="mc_embed_signup">
 	<form
 		action="https://letstalkpayments.us7.list-manage.com/subscribe/post?u=bc57d9187dbf177fa07614fbf&amp;id=aa5e7321a3"
 		method="post" id="mc-embedded-subscribe-form"
