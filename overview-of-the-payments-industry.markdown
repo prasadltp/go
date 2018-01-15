@@ -5,6 +5,7 @@ date: 2018-01-15 08:06:00 Z
 description: The Payments Ecosystem The Evolution of Channels and Means Money and
   the idea of its exchange through payments have evolved a lot from the time of its
   inception. From goods
+image: "/uploads/Payments.png"
 ---
 
 **The Payments Ecosystem**
