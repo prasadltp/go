@@ -13,28 +13,28 @@ position: 5
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="email" value="" name="EMAIL" placeholder="Email Address" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+	<input type="text" value="" name="FNAME" placeholder="First Name" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
+	<input type="text" value="" name="LNAME" placeholder="Last Name" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-MMERGE3">Company  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="MMERGE3" class="required" id="mce-MMERGE3">
+	<input type="text" value="" name="MMERGE3" class="required" placeholder="Company" id="mce-MMERGE3">
 </div>
 <div class="mc-field-group">
 	<label for="mce-MMERGE19">Region  <span class="asterisk">*</span>
 </label>
 	<select name="MMERGE19" class="required" id="mce-MMERGE19">
-	<option value=""></option>
+	<option value="">Please select region</option>
 	<option value="Americas">Americas</option>
 <option value="EMEA">EMEA</option>
 <option value="APAC">APAC</option>
@@ -44,7 +44,7 @@ position: 5
 <div class="mc-field-group">
 	<label for="mce-MMERGE20">Role  <span class="asterisk">*</span>
 </label>
-	<input type="text" value="" name="MMERGE20" class="required" id="mce-MMERGE20">
+	<input type="text" value="" name="MMERGE20" placeholder="Role" class="required" id="mce-MMERGE20">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
