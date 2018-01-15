@@ -13,7 +13,7 @@ Field name:
 
 “Blockchain technology has the ability to optimize the global infrastructure to deal with global issues in this space much more efficiently than current systems.” – Marwan Forzley, Founder of Align Commerce
 
-Everyone is talking about blockchain, the new technology in the FinTech Industry. The concept of [blockchain](https://letstalkpayments.com/banks-entrepreneurs-startups-and-vc-firms-showing-interest-in-blockchain-technology/) has energized the financial services industry globally. The concept has already brought a disruption in the financial industry. *LTP *brings to you the overview, technology, application areas and use cases of blockchain.
+Everyone is talking about blockchain, the new technology in the FinTech Industry. The concept of [blockchain](https://letstalkpayments.com/banks-entrepreneurs-startups-and-vc-firms-showing-interest-in-blockchain-technology/) has energized the financial services industry globally. The concept has already brought a disruption in the financial industry. \*LTP \*brings to you the overview, technology, application areas and use cases of blockchain.
 
 **What is blockchain?**
 
@@ -25,7 +25,7 @@ A blockchain is a public ledger of all bitcoin transactions that have ever been 
 
 To give an example of the blockchain concept, we found out about a product called [Gyft](https://www.gyft.com/), an online platform for gift cards where you can buy, sell and redeem gift cards. It is a partnership between 44-year-old merchant acquirer/processor/FinTech firm First Data and blockchain infrastructure provider [Chain](https://chain.com/) to offer gift cards for SMBs using blockchain. The product will be rolled out soon and will become a solid example of blockchain-based innovation that has nothing to do with bitcoin. Why does it make sense? A majority of the SMBs don’t have gift card programs and therefore, POS installed at SMBs don’t accept them. It is costly to offer a gift card program and difficult to see the immediate benefits. It’s basically postponed gratification for a retailer, but large retailers understand it very well and have gift cards acceptance. Blockchain allows Gyft to offer a great gift card solution to SMB customers.
 
-**Benefits of blockchain technology as specified by*[Forbes](http://www.forbes.com/sites/georgehoward/2015/08/12/blockchain-technology-is-our-chance-to-rebuild-the-internet-in-a-way-that-benefits-creators/)*are:**
+*Benefits of blockchain technology as specified by*[Forbes](http://www.forbes.com/sites/georgehoward/2015/08/12/blockchain-technology-is-our-chance-to-rebuild-the-internet-in-a-way-that-benefits-creators/)*are:*
 
 1. As a public ledger system, blockchain records and validate each and every transaction made, which makes it secure and reliable.
 
@@ -37,8 +37,7 @@ To give an example of the blockchain concept, we found out about a product calle
 
 Banks and other financial institutions have also been active in investing (time and/or money) in this space. The following are some of the banks and other FIs who have shown intent on blockchain. The below timeline depicts the announcements by different FIs and their partners (if any) along with the potential use cases they are exploring.
 
-![Blockchain-Activity-of-FIs-Banks-Updated-Analysis-Infographic.png](/uploads/Blockchain-Activity-of-FIs-Banks-Updated-Analysis-Infographic.png)
-{:width="1128px"}
+![Blockchain-Activity-of-FIs-Banks-Updated-Analysis-Infographic-a281e7.png](/uploads/Blockchain-Activity-of-FIs-Banks-Updated-Analysis-Infographic-a281e7.png)
 
 **Deutsche Bank:**
 
@@ -82,7 +81,7 @@ Reported to have started working on blockchain technology in June 2014. They dev
 
 Partnered with Ripple Labs to build risk management system and provide lower cost remittance services.
 
-**Rabobank, ABN Amro, ING Bank: **Exploring blockchain for various banking services. Rabobank has also partnered with Ripple Labs.
+\*\*Rabobank, ABN Amro, ING Bank: \*\*Exploring blockchain for various banking services. Rabobank has also partnered with Ripple Labs.
 
 **Goldman Sachs:**
 
@@ -116,9 +115,9 @@ The bank has two bitcoin labs in London that are open for various bitcoin and bl
 
 **USAA Bank:** Created a research team to study uses of bitcoin.
 
-**ANZ Bank: **Partnered with Ripple to explore potential use cases of blockchain.
+\*\*ANZ Bank: \*\*Partnered with Ripple to explore potential use cases of blockchain.
 
-**BNP Paribas: **Experimenting at making transactions faster by using blockchain.
+\*\*BNP Paribas: \*\*Experimenting at making transactions faster by using blockchain.
 
 **Societe Generale:** Planning to staff employees with BTC, blockchain and cryptocurrency expertise.
 
@@ -128,7 +127,7 @@ They have set up three separate systems within Citi that deploy blockchain-based
 
 **Public and private blockchain concepts and examples:**
 
-**Public blockchain: **A public blockchain is a platform where anyone on the platform would be able to read or write to the platform, provided they are able to show proof of work for the same. There has been a lot of activity in this space as the number of potential users that any technology in this space could generate is high. Also, a public blockchain is considered to be a fully decentralized blockchain. Some examples:
+\*\*Public blockchain: \*\*A public blockchain is a platform where anyone on the platform would be able to read or write to the platform, provided they are able to show proof of work for the same. There has been a lot of activity in this space as the number of potential users that any technology in this space could generate is high. Also, a public blockchain is considered to be a fully decentralized blockchain. Some examples:
 
 * Ethereum, a provider of a decentralized platform and programming language that helps running smart contracts and allows developers to publish distributed applications.
 
@@ -169,8 +168,7 @@ The interest of financial institutions on blockchain is quite evident considerin
 
 [Blockchain](https://letstalkpayments.com/new-blockchain-based-business-models-not-just-incremental-innovation/) technology allows everyone to hold and make transactions as strangers but in a completely transparent manner. There is no mediator in between two people making the transaction, and the entire process becomes easier and cheaper. This concept can be applied to the entire digital world, making any kind of exchange/transactions secure.
 
-![Blockchain-Usecases-and-Startups.png](/uploads/Blockchain-Usecases-and-Startups.png)
-{:width="1128px"}
+![Blockchain-Usecases-and-Startups-8bc80c.png](/uploads/Blockchain-Usecases-and-Startups-8bc80c.png)
 
 The major focus is on non-financial use cases of blockchain. The non-financial use cases of blockchain have been hot in the recent past with more than 50\+ startups coming up in this space. Blockchain Capital (formerly known as Crypto Currency Partners) very recently managed to raise US$7 million towards their second investment fund for bitcoin and blockchain-related ventures specifically focusing on non-financial use cases.
 
@@ -184,51 +182,52 @@ Apart from startups, banks also have been actively investing in this decentraliz
 
 The below infographic provides a snapshot of companies and the broad applications that they are providing over blockchain. These include both non-financial and financial/currency-related (bitcoin and other digital currencies) applications.
 
-![Untitled2.png](/uploads/Untitled2.png)\
+![Untitled2.png](/uploads/Untitled2.png)
+
 \
 Below is a quick description of each of the use cases:
 
-**App development: **Proof of ownership of modules in app development
+\*\*App development: \*\*Proof of ownership of modules in app development
 
 **Digital content:** Proof of ownership for digital content storage and delivery
 
-**Ride-sharing: **Points-based value transfer for ride-sharing
+\*\*Ride-sharing: \*\*Points-based value transfer for ride-sharing
 
 **Digital security trading:** Ownership and transfer
 
-**Digitization of documents/contracts: **Digitization of documents/contracts and proof of ownership for transfers
+\*\*Digitization of documents/contracts: \*\*Digitization of documents/contracts and proof of ownership for transfers
 
-**Decentralized storage: **Decentralized storage using a network of computers on blockchain
+\*\*Decentralized storage: \*\*Decentralized storage using a network of computers on blockchain
 
 **Company incorporations:** Digitizing company incorporations, transfer of equity/ownership and governance
 
-**Decentralized Internet and computing resources: **Decentralized Internet and computing resources to cover every home and business
+\*\*Decentralized Internet and computing resources: \*\*Decentralized Internet and computing resources to cover every home and business
 
-**Home automation: **Platform to link the home network and electrical devices to the cloud
+\*\*Home automation: \*\*Platform to link the home network and electrical devices to the cloud
 
-**Digital identity: **Provides digital identity that protects consumer privacy
+\*\*Digital identity: \*\*Provides digital identity that protects consumer privacy
 
 **Escrow/custodian service:** Escrow/custodian service for the gaming industry; loan servicing and e-commerce
 
-**IT portal: **A smart contract IT portal executing order fulfillment in ecommerce/manufacturing
+\*\*IT portal: \*\*A smart contract IT portal executing order fulfillment in ecommerce/manufacturing
 
-**Patient records: **Decentralized patient records management
+\*\*Patient records: \*\*Decentralized patient records management
 
 **Digitizing assets:** Improves anti-counterfeit measures
 
 **Reputation management:** Helps users engage, share reputation and collect feedback
 
-**Prediction platform: **Decentralized prediction platform for the share markets, elections, etc.
+\*\*Prediction platform: \*\*Decentralized prediction platform for the share markets, elections, etc.
 
-**Enables authenticity of a review: **Enables authenticity of a review through trustworthy endorsements for employee peer reviews
+\*\*Enables authenticity of a review: \*\*Enables authenticity of a review through trustworthy endorsements for employee peer reviews
 
-**Marketplace for sales and purchases of digital assets: **Proof of ownership and a marketplace for sales and purchases of digital assets
+\*\*Marketplace for sales and purchases of digital assets: \*\*Proof of ownership and a marketplace for sales and purchases of digital assets
 
 Interest in blockchain has been coming in from every corner of the world with major ones being banks and technology providers. Banks’ interest in bitcoin blockchain is seeing a huge uptick with the exploration of potential use cases for the distributed ledger system (blockchain technology).
 
 **LTP Blockchain Momentum 2016:**
 
-As we come close to the end of 2015, *LTP *brings to you the **LTP Blockchain Momentum Infographic**. In the middle of 2015, we brought to you the [use cases](https://letstalkpayments.com/blockchain-use-cases-part-ii-non-financial-and-financial-use-cases/) of blockchain in the financial and the non-financial domain. Now, we have done an intensive study on the segments in blockchain which are growing exponentially and lagging behind as well.
+As we come close to the end of 2015, \*LTP \*brings to you the **LTP Blockchain Momentum Infographic**. In the middle of 2015, we brought to you the [use cases](https://letstalkpayments.com/blockchain-use-cases-part-ii-non-financial-and-financial-use-cases/) of blockchain in the financial and the non-financial domain. Now, we have done an intensive study on the segments in blockchain which are growing exponentially and lagging behind as well.
 
 Here is an infographic on the segments of [blockchain](https://letstalkpayments.com/financial-institutions-blockchain-activity-analysis/).
 
@@ -254,8 +253,7 @@ There have been multiple use cases where the financial services industry has sho
 
 **1. Bitcoin-powered wallets**
 
-![14-11.png](/uploads/14-11.png)
-{:width:"1128px"}
+![14-11-9d4879.png](/uploads/14-11-9d4879.png)
 
 We have also provided a complete analysis of how a particular segment like capital markets can benefit from Blockchain:
 
@@ -279,7 +277,7 @@ Financial institutions can build a shared flat ledger using blockchain technolog
 
 Blockchain technology can be used as open source software to customize and further tailor business rules for transaction processing based on organizational requirements. Areas like over-the-counter (OTC) derivatives and bonds trading will immensely benefit through blockchain technology. Blockchain technology can provide a real-time, cost-effective and secure settlement model that is global and decentralized. So it’s just a matter of time before we watch blockchain play an imperative role in capital markets.
 
-**How **Blockchain can** help Public and Private Stock Exchanges? Part 2**
+**How Blockchain can** help Public and Private Stock Exchanges? Part 2
 
 Sometime back we [wrote](https://letstalkpayments.com/how-blockchain-technology-will-play-an-imperative-role-in-capital-markets/) about Blockchain Technology and its potential role in the Capital Markets. We wanted to write an update to that [article](https://letstalkpayments.com/how-blockchain-technology-will-play-an-imperative-role-in-capital-markets/) but there was so much to say that it turned into a full-fledged article. To give our readers a recap, capital markets is one of the industries in the financial space where industry experts are optimistic about the use of blockchain technology. Also, in this article, we will discuss the benefits and challenges of implementing blockchain technology and will explain how public and private platforms are integrating this technology.
 
@@ -293,7 +291,7 @@ Sometime back we [wrote](https://letstalkpayments.com/how-blockchain-technology-
 
 ![pic_2.jpg](/uploads/pic_2.jpg)
 
-2) Belgium-based financial services company Euroclear explains the solution as “The record of each security would be held on a flat accounting basis: put simply, with multiple levels of beneficial ownership in a single ledger. Also, there would be no need to operate data normalisation, reconcile internal systems, or agree on exposures and obligations. We would have standardised processes and services, shared reference data, standardised processing capabilities (such as reconciliations), near real-time data, and improved understanding of counterparty worthiness. For privileged participants such as regulators, we would have transparent data on holdings, among many other improvements.”
+1. Belgium-based financial services company Euroclear explains the solution as “The record of each security would be held on a flat accounting basis: put simply, with multiple levels of beneficial ownership in a single ledger. Also, there would be no need to operate data normalisation, reconcile internal systems, or agree on exposures and obligations. We would have standardised processes and services, shared reference data, standardised processing capabilities (such as reconciliations), near real-time data, and improved understanding of counterparty worthiness. For privileged participants such as regulators, we would have transparent data on holdings, among many other improvements.”
 
 ![Pic_3.jpg](/uploads/Pic_3.jpg)
 {: .center-image }
@@ -372,8 +370,7 @@ Benefits for Capital Market across pre-trade, trade, post-trade and securities s
 
 **11 Blockchain Companies Applying Distributed Ledger Technology to Compliance & Security**
 
-![11-copy.png](/uploads/11-copy.png)
-{:width="1128px"}
+![11-copy-32bd30.png](/uploads/11-copy-32bd30.png)
 
 **Blockchain Applications Beyond the Financial Services Industry**
 
@@ -433,7 +430,7 @@ These blockchain platforms have been utilized by other players either for develo
 
 The below figure provides you with a snapshot of various apps/products/integrations that are being done on the core platforms.
 
-![Blockchain-Apps.png](/uploads/Blockchain-Apps.png){:width="1128px"}
+![Blockchain-Apps-9f060e.png](/uploads/Blockchain-Apps-9f060e.png)
 
 **Ripple:** Ripple is completely focused on its enterprise strategy, helping banks with real time settlement for international payments. In 2015, it has launched 2 new solutions for license Cross-Currency Settlement and FX Market Making. Some of the business that have been utilizing the Ripple Protocol are:
 
