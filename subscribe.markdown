@@ -36,9 +36,20 @@ position: 5
 					id="mce-MMERGE3">
 			</div>
 			<div class="mc-field-group">
-				<label for="mce-MMERGE20">Role <span class="asterisk">*</span>
-				</label> <input type="text" value="" name="MMERGE20" placeholder="Role *" class="required"
-					id="mce-MMERGE20">
+				<label for="mce-MMERGE14">Role <span class="asterisk">*</span>
+				</label> <select name="MMERGE14" class="required" id="mce-MMERGE14">
+					<option value="">Please select role *</option>
+					<option value="Investor">Investor</option>
+					<option value="StartUp">StartUp</option>
+					<option value="Financial Institution">Financial
+						Institution</option>
+					<option value="Media">Media</option>
+					<option value="Blogger">Blogger</option>
+					<option value="Influencer">Influencer</option>
+					<option value="Analyst">Analyst</option>
+					<option value="Other">Other</option>
+
+				</select>
 			</div>
 			<div class="mc-field-group">
 				<label for="mce-MMERGE19">Region <span class="asterisk">*</span>
@@ -47,7 +58,7 @@ position: 5
 					<option value="Americas">Americas</option>
 					<option value="EMEA">EMEA</option>
 					<option value="APAC">APAC</option>
-
+<option value="ALL">ALL</option>
 				</select>
 			</div>
 			<div id="mce-responses" class="clear">
@@ -81,8 +92,8 @@ position: 5
 		ftypes[2] = 'text';
 		fnames[3] = 'MMERGE3';
 		ftypes[3] = 'text';
-		fnames[20] = 'MMERGE20';
-		ftypes[20] = 'text';
+		fnames[14] = 'MMERGE14';
+		ftypes[14] = 'dropdown';
 		fnames[19] = 'MMERGE19';
 		ftypes[19] = 'dropdown';
 		fnames[4] = 'MMERGE4';
